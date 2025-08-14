@@ -1,0 +1,30 @@
+{
+  "DevProducts": [
+    {
+      "Name": "Ultra Pack (Remote)",
+      "ProductID": 3370479779
+    },
+    {
+      "Name": "Mega Boost (Remote)",
+      "ProductID": 43567
+    },
+    {
+      "Name": "Auto-Farm 15m (Remote)",
+      "ProductID": 12865
+    }
+  ],
+  "Gamepasses": [
+    {
+      "Name": "VIP (Remote)",
+      "ProductID": 026824
+    },
+    {
+      "Name": "x2 Coins (Remote)",
+      "ProductID": 94018
+    },
+    {
+      "Name": "x2 Luck (Remote)",
+      "ProductID": 36809
+    }
+  ]
+}
